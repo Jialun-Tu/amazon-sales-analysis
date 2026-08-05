@@ -40,3 +40,34 @@ Amazon Sales Dataset (Kaggle)
 - Data Visualization
 - Dashboard Design
 - Business Analysis
+
+## Key Business Insights
+
+### 1. Electronics generated the highest revenue.
+
+The Electronics category contributed the largest share of total revenue, highlighting strong customer demand and business value.
+
+### 2. Revenue peaked in April.
+
+Monthly revenue analysis showed that April achieved the highest sales performance, indicating potential seasonal demand.
+
+### 3. Amazon Fulfilled accounted for most fulfilled orders.
+
+The majority of orders were processed through Amazon Fulfillment, suggesting a significant reliance on Amazon's logistics network.
+
+### 4. Product performance varied significantly.
+
+Sales performance differed considerably across products, with a small number of products contributing a large share of total sales.
+
+## Business Recommendations
+
+Based on the analysis, the following recommendations are proposed:
+
+- Prioritize inventory allocation for high-performing products.
+
+- Monitor category performance regularly to support inventory decisions.
+
+- Track monthly sales trends to improve demand planning.
+
+- Continue monitoring fulfillment performance to support operational efficiency.
+
