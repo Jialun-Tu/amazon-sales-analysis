@@ -10,9 +10,6 @@ This project answers key business questions using SQL, including:
 
 
 
-  
-
-
 -- Q1. Which SKU generated the highest sales volume?
 
 SELECT
